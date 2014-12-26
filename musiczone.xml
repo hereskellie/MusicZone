@@ -1,0 +1,464 @@
+Project for Web Development. Web Application for Music. XML file-->
+
+
+<?xml version="1.0"?>
+<?xml-stylesheet href="basic.xsl" type="text/xsl"?>
+
+<music>
+
+    <genre> Indie
+    
+        <artist> Two Door Cinema Club
+            <albums>
+                <album1>Beacon
+                    <year>2012</year>
+                    <tracks>
+                        <t1>Next Year</t1>
+                        <t2>Handshake</t2>
+                        <t3>Wake Up</t3>
+                        <t4>Sun</t4>
+                        <t5>Someday</t5>
+                        <t6>Sleep Alone</t6>
+                        <t7>The World is Watching</t7>
+                        <t8>Settle</t8>
+                        <t9>Spring</t9>
+                        <t10>Pyramid</t10>
+                        
+                    </tracks>
+                    <producer>Jacknife Lee</producer>
+                </album1>
+
+
+                <album2>Tourist History
+                    <year>2010</year>
+                    <tracks>
+                        <t1>Cigarettes In The Theatre</t1>
+                        <t2>Come Back Home</t2>
+                        <t3>Do You Want It All?</t3>
+                        <t4>This Is The Life</t4>
+                        <t5>Something Good Can Worl</t5>
+                        <t6>I Can Talk</t6>
+                        <t7>Undercover Martyn</t7>
+                        <t8>What You Know</t8>
+                        <t9>Eat That Up, Its Good For You</t9>
+                        <t10>You Are Not Stubborn</t10>
+                    </tracks>
+                    <producer>Eliot James</producer>
+                </album2>
+            </albums>
+
+
+
+            <members>
+                Alex Trimble, Sam Halliday and Kevin Baird
+            </members>
+            
+        </artist>
+
+        <artist>The Kooks
+            <albums>
+                <album1>Inside In/Inside Out
+                    <year>2006</year>
+                    <tracks>
+                        <t1>SeaSide</t1>
+                        <t2>See The World</t2>
+                        <t3>Sofa Song</t3>
+                        <t4>Eddies Gun</t4>
+                        <t5>Ohh La</t5>
+                        <t6>You Dont Love Me</t6>
+                        <t7>She Moves in Her Own Way</t7>
+                        <t8>Match Box</t8>
+                        <t9>Niave</t9>
+                        <t10>I Want You Back</t10>
+                        <t11>If Only</t11>
+                        <t12>Jackie Big Tits</t12>
+                        <t13>Time Awaits</t13>
+                    </tracks>
+                    <producer>Tony Hoffer</producer>
+                </album1>
+
+                <album2>Konk
+                    <year>2008</year>
+                    <tracks>
+                        <t1>See The Sun</t1>
+                        <t2>Always Where I Need To Be</t2>
+                        <t3>Mr Maker</t3>
+                        <t4>Do You Wanna</t4>
+                        <t5>Gap</t5>
+                        <t6>Love It All</t6>
+                        <t7>Stormy Weather</t7>
+                        <t8>Sway</t8>
+                        <t9>Shine On</t9>
+                        <t10>Down To The Market</t10>
+                        <t11>One Last Time</t11>
+                        <t12>Tick Of Time</t12>
+                        <t13>All Over Time</t13>
+                    </tracks>
+                    <producer>Tony Hoffer</producer>
+                </album2>
+
+                
+            </albums>
+
+            <members>
+                Luke Pritchard, Hugh Harries and Peter Denton
+            </members>
+        </artist>
+
+    </genre>
+
+
+
+
+    <genre>Pop Punk
+
+        <artist>The Wonder Years
+            <albums>
+
+                <album1>The Upsides
+                    <year>2010</year>
+                    <tracks>
+                        <t1>My Last Semester</t1>
+                        <t2>Logan Circle</t2>
+                        <t3>Everything I Own Fits in This Backpack</t3>
+                        <t4>Dynamite Shovel</t4>
+                        <t5>New Years with Carl Weathers</t5>
+                        <t6>It's Never Sunny in South Philadelphia</t6>
+                        <t7>Hostels and Brothels</t7>
+                        <t8>Melrose Diner</t8>
+                        <t9>This Party Sucks</t9>
+                        <t10>Hey Thanks</t10>
+                        
+                    </tracks>
+                    <producer>Vince Ratti</producer>
+                </album1>
+
+                <album2>Suburbia: I've Given You All and Now I'm Nothing
+                    <year>2011</year>
+                    <tracks>
+                        <t1>Came Out Swinging</t1>
+                        <t2>Woke Up Older</t2>
+                        <t3>Local Man Ruins Everything</t3>
+                        <t4>Suburbia</t4>
+                        <t5>My Life as a Pigeon</t5>
+                        <t6>Summers in PA</t6>
+                        <t7>I Won't Say the Lord's Prayer</t7>
+                        <t8>Coffee Eyes</t8>
+                        <t9>I've Given You All</t9>
+                        <t10>Don't Let Me Cave In</t10>
+                    </tracks>
+                    <producer>Steve Evetts</producer>
+                </album2>
+            </albums>
+
+
+            <members>
+                Dan "Soupy" Campbell, Matt Brasch, Mike Kennedy, Josh Martin and Nick Steinborn
+            </members>
+        </artist>
+
+    </genre>
+
+
+
+
+    <genre>Pop
+        <artist>Ed Sheeran
+            <albums>
+                <album1>Addition
+                    <year>2011</year>
+                    <tracks>
+                        <t1>The A Team</t1>
+                        <t2>Drunk</t2>
+                        <t3>U.N.I</t3>
+                        <t4>Grade 8</t4>
+                        <t5>Wake Me Up</t5>
+                        <t6>Small Bump</t6>
+                        <t7>This</t7>
+                        <t8>The City</t8>
+                        <t9>Lego House</t9>
+                        <t10>You Need Me, I Dont Need You</t10>
+                    </tracks>
+                    <producer>Jake Gosling</producer>
+                </album1>
+
+            </albums>
+
+
+
+            <members>
+                Ed Sheeran
+            </members>
+        </artist>
+
+        <artist>One Direction
+            <albums>
+                <album1>Up All Night
+                    <year>2011</year>
+                    <tracks>
+                        <t1>What Makes You Beautiful</t1>
+                        <t2>Gotta Be You</t2>
+                        <t3>One Thing</t3>
+                        <t4>More Than This</t4>
+                        <t5>Up All Night</t5>
+                        <t6>I Wish</t6>
+                        <t7>Tell Me A Lie</t7>
+                        <t8>Taken</t8>
+                        <t9>I Want</t9>
+                        <t10>Everything About You</t10>
+                    </tracks>
+                    <producer>Ash Howes</producer>
+                </album1>
+
+                <album2>Take Me Home
+                    <year>2012</year>
+                    <tracks>
+                        <t1>Live While Were Young</t1>
+                        <t2>Kiss You</t2>
+                        <t3>Little Things</t3>
+                        <t4>Cmon Cmon</t4>
+                        <t5>Last First Kiss</t5>
+                        <t6>Heart Attack</t6>
+                        <t7>Rock Me</t7>
+                        <t8>Change My Mind</t8>
+                        <t9>I Would</t9>
+                        <t10>Over Again</t10>
+                    </tracks>
+                    <producer>Ash Howes</producer>
+                </album2>
+            </albums>
+
+            <members>
+                Harry Styles, Liam Payne, Niall Horan, Louis Hamilton and Zahn Malik.
+            </members>
+        </artist>
+
+    </genre>
+
+
+
+
+    <genre> Rock
+
+        <artist> The Dollyrots
+            <albums>
+
+                <album1>Eat My Heart Out
+                    <year>2004</year>
+                    <tracks>
+                        <t1>Kick Me to the Curb</t1>
+                        <t2>Love You Most</t2>
+                        <t3>Jackie Chan</t3>
+                        <t4>Wreckage</t4>
+                        <t5>Feed Me, Pet Me</t5>
+                        <t6>Penny</t6>
+                        <t7>Goodnight Tonight</t7>
+                        <t8>Dance With Me</t8>
+                        <t9>New College</t9>
+                        <t10>Promised Call</t10>
+                    </tracks>
+                    <producer>John Fields</producer>
+                </album1>
+
+
+                <album2>Because I'm Awesome
+                    <year>2007</year>
+                    <tracks>
+                        <t1>Because I'm Awesome</t1>
+                        <t2>My best Friend's Hot</t2>
+                        <t3>Out of L.A.</t3>
+                        <t4>Brand New Key</t4>
+                        <t5>Hysteria</t5>
+                        <t6>A Desperate S.O.S.</t6>
+                        <t7>Watch Me Go</t7>
+                        <t8>This Crush</t8>
+                        <t9>Cat Calling</t9>
+                        <t10>17</t10>
+                    </tracks>
+                    <producer>John Fields and Jacques Wait</producer>
+                </album2>
+            </albums>`
+
+            <members>
+                Kelly Ogden and Luis Cabezas
+            </members>
+
+        </artist>
+
+
+        <artist> Foo Fighters
+            <albums>
+
+                <album1>Foo Fighters
+                    <year>1995</year>
+                    <tracks>
+                        <t1>This Is a Call</t1>
+                        <t2>I'll Stick Around</t2>
+                        <t3>Big Me</t3>
+                        <t4>Alone + Easy Target</t4>
+                        <t5>Good Grief</t5>
+                        <t6>Floaty</t6>
+                        <t7>Weenie Beenie</t7>
+                        <t8>Oh, George</t8>
+                        <t9>For All the Cows</t9>
+                        <t10>X-Static</t10>
+                    </tracks>
+                    <producer>Dave Grohl</producer>
+                </album1>
+
+                <album2>Colour And The Shape
+                    <year>1997</year>
+                    <tracks>
+                        <t1>Doll</t1>
+                        <t2>Monkey Wrench</t2>
+                        <t3>Hey, Johnny Park!</t3>
+                        <t4>My Poor Brain</t4>
+                        <t5>Wind Up</t5>
+                        <t6>Up in Arms</t6>
+                        <t7>My Hero</t7>
+                        <t8>See You</t8>
+                        <t9>Enough Space</t9>
+                        <t10>February Stars</t10>
+                    </tracks>
+                    <producer>Gil Norton</producer>
+                </album2>
+            </albums>
+
+
+            <members>
+                Dave Grohl, Nate Mendel, Taylor Hawkins and Chris Shiflett.
+                
+            </members>	
+        </artist>
+
+    </genre>
+
+
+
+
+    <genre>Folk
+        <artist>Mumford And Sons
+            <albums>
+                <album1>Sigh No More
+                    <year>2009</year>
+                    <tracks>
+                        <t1>Sigh No More</t1>
+                        <t2>The Cave</t2>
+                        <t3>Winter Winds</t3>
+                        <t4>Roll Away Your Stone</t4>
+                        <t5>White Blank Page</t5>
+                        <t6>I Gave You All</t6>
+                        <t7>LIttle Lion Man</t7>
+                        <t8>Timshel</t8>
+                        <t9>Thistle and Weeds</t9>
+                        <t10>Awake My Soul</t10>
+                        
+                    </tracks>
+                    <producer>Markus Draves</producer>
+                </album1>
+                <album1>Babel
+                    <year>2012</year>
+                    <tracks>
+                        <t1>Babel</t1>
+                        <t2>Whispers In The Dark</t2>
+                        <t3>I Will Wait</t3>
+                        <t4>Holland Road</t4>
+                        <t5>Ghosts That We Knew</t5>
+                        <t6>Lover Of The Light</t6>
+                        <t7>Lovers Eyes</t7>
+                        <t8>Reminder</t8>
+                        <t9>Hopeless</t9>
+                        <t10>Broken Crown</t10>
+                    </tracks>
+                    <producer>Markus Draves</producer>
+                </album1>
+            </albums>
+
+
+
+            <members>
+                Marcus Mumford, Ben Lovett, Winston Marshall and Ted Dwane
+            </members>
+        </artist>
+
+        <artist>Of Monsters And Men
+            <albums>
+                <album1>My Head Is An Aminal
+                    <year>2012</year>
+                    <tracks>
+                        <t1>Dirty Paws</t1>
+                        <t2>King and Lionheart</t2>
+                        <t3>Mountain Sound</t3>
+                        <t4>Slow and Steady</t4>
+                        <t5>From Finner</t5>
+                        <t6>Little Talks</t6>
+                        <t7>Six Weeks</t7>
+                        <t8>Love Love Love</t8>
+                        <t9>Your Bones</t9>
+                        <t10>Sloom</t10>
+                    </tracks>
+                    <producer>Of Monsters And Men</producer>
+                </album1>
+            </albums>
+
+            <members>
+                Nanna Bryndis Hilmarsdottir and Ragnar Porhallsson
+            </members>
+        </artist>
+
+    </genre>
+
+    <genre>Grunge
+
+        <artist>Nirvana
+            <albums>
+
+                <album1>Bleach
+                    <year>1989</year>
+                    <tracks>
+                        <t1>Blew</t1>
+                        <t2>Floyd the Barber</t2>
+                        <t3>About a Girl</t3>
+                        <t4>School</t4>
+                        <t5>Love Buzz</t5>
+                        <t6>Paper Cuts</t6>
+                        <t7>Negative Creep</t7>
+                        <t8>Scoff</t8>
+                        <t9>Swap Meet</t9>
+                        <t10>Mr. Moustache</t10>
+                    </tracks>
+                    <producer>Jack Endino</producer>
+                </album1>
+
+                <album2>Nevermind
+                    <year>1991</year>
+                    <tracks>
+                        <t1>Smells Like Teen Spirit</t1>
+                        <t2>In Bloom</t2>
+                        <t3>Come as You Are</t3>
+                        <t4>Breed</t4>
+                        <t5>Lithium</t5>
+                        <t6>Polly</t6>
+                        <t7>Territorial Pissings</t7>
+                        <t8>Drain You</t8>
+                        <t9>Lounge Act</t9>
+                        <t10>Stay Away</t10>
+                        
+                    </tracks>
+                    <producer>Butch Vig</producer>
+                </album2>
+
+            </albums>
+
+
+
+            <members> Kurt Cobain, Dave Grohl and Krist Novoselic
+                
+            </members>
+        </artist>
+
+    </genre>
+
+
+
+</music>
